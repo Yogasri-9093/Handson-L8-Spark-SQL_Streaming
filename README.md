@@ -42,7 +42,9 @@ ride-sharing-analytics/
 │   |    └── output/task2/epoch=5/part-00000-996107c9-ac3b-4d8e-92cc-a22e0849e440-c000.csv
 │   |    └── output/task2/epoch=9/part-00000-2d4bae17-b82d-4cf2-b555-be03fa7f2d9c-c000.csv
 |   └── task_3
-│       └── CSV files of task 3.
+│       └── output/task3/epoch=2/part-00000-d6a92d92-4a43-4057-9d0e-b6f6f0ab0987-c000.csv
+│       └── output/task3/epoch=5/part-00000-b3ee9683-7705-4967-ad3f-e15777a37a04-c000.csv
+│       └── output/task3/epoch=7/part-00000-e103e693-abf2-4617-ba2e-26e1e21becec-c000.csv
 ├── .gitignore
 ├── task1.py
 ├── task2.py
