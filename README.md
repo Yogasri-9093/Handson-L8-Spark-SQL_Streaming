@@ -38,6 +38,7 @@ ride-sharing-analytics/
 │   |    └── CSV files of task 2.
 |   └── task_3
 │       └── CSV files of task 3.
+├── .gitignore
 ├── task1.py
 ├── task2.py
 ├── task3.py
