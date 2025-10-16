@@ -38,7 +38,9 @@ ride-sharing-analytics/
 │   |    └── output/task1/part-00000-c5c0f09d-7994-4407-9bdc-d314e037ca2f-c000.csv
 
 |   ├── task_2
-│   |    └── CSV files of task 2.
+│   |    └── output/task2/epoch=3/part-00000-a83bc0aa-d526-451e-b171-1ffca17601d7-c000.csv
+│   |    └── output/task2/epoch=5/part-00000-996107c9-ac3b-4d8e-92cc-a22e0849e440-c000.csv
+│   |    └── output/task2/epoch=9/part-00000-2d4bae17-b82d-4cf2-b555-be03fa7f2d9c-c000.csv
 |   └── task_3
 │       └── CSV files of task 3.
 ├── .gitignore
