@@ -98,8 +98,9 @@ By the end of this assignment, you should be able to:
 
 ## **Sample output:**
   ```bash
-    trip_id,driver_id,distance_km,fare_amount,timestamp
-    576e2f8a-5230-41f6-90ce-194938b3dcd3,71,27.59,79.62,2025-10-15 02:37:12
+    
+trip_id,driver_id,distance_km,fare_amount,timestamp
+b17e7889-2625-4938-8fe8-7afb9be8bf16,98,15.89,144.62,2025-10-16 05:06:37
   ```
 ---
 
