@@ -120,7 +120,7 @@ b17e7889-2625-4938-8fe8-7afb9be8bf16,98,15.89,144.62,2025-10-16 05:06:37
 
 ## **Sample output:**
 ```bash
-    driver_id,total_fare,avg_distance
+driver_id,total_fare,avg_distance
 12,125.91,15.99
 1,207.26,20.44
 13,126.43,12.92
@@ -146,7 +146,7 @@ b17e7889-2625-4938-8fe8-7afb9be8bf16,98,15.89,144.62,2025-10-16 05:06:37
 
 ## **Sample output:**
 ```bash
-    window_start,window_end,total_fare
+window_start,window_end,total_fare
 2025-10-16T05:07:00.000Z,2025-10-16T05:12:00.000Z,1905.96
 2025-10-16T05:09:00.000Z,2025-10-16T05:14:00.000Z,1905.96
 2025-10-16T05:06:00.000Z,2025-10-16T05:11:00.000Z,1905.96
